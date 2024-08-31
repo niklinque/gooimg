@@ -1,4 +1,4 @@
-# Gooimg --- бот для удобного поска картинок в Telegram
+# Gooimg - бот для удобного поска картинок в Telegram
 
 Inline-бот в Telegram для поиска картинок, используя Google | Inline Telegram Bot that search images using Google Images
 
