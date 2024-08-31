@@ -1,8 +1,9 @@
-# Google Image search Telegram inline bot
+# Inline-бот в Telegram для поиска картинок, используя Google | Inline Telegram Bot that search images using Google Images
 
-
-This bot is just like @bing but using Google Images as backend
-
+# Русский
+---
+# English
+---
 # Install instructions
 #### First you need some Google search keys
 
